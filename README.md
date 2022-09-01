@@ -1,6 +1,13 @@
-# alisverislistesi
+# Alisveris_Listesi_Uygulamasi
 
 A new Flutter project.
+
+
+![ilk](https://user-images.githubusercontent.com/55911470/187856052-16fa4a17-9944-45b3-ad5d-f6668e048f75.png)
+
+![iki](https://user-images.githubusercontent.com/55911470/187856074-b2b90d7f-6b16-4ef3-a538-a1b347d5be87.png)
+
+
 
 ## Getting Started
 
